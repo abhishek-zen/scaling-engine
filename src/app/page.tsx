@@ -18,7 +18,7 @@ export default function Home() {
             Scope the features, Brainstorm the implementation plan, Generate the code and Deploy it.
           </li>
           <li className="tracking-[-.01em]">
-            Alchemi uses supabase as a backend. Vercel for deployment. hi
+            Alchemi uses supabase as a backend. Vercel for deployment. hi from my side
           </li>
         </ol>
         {/* Need to remove this section once application generation Begins  ----START SECTION----*/}  
