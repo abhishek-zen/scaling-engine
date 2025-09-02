@@ -10,7 +10,7 @@ export default function Home() {
           <li className="mb-2 tracking-[-.01em]">
             Get started by prompting{" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
-              Alchemi will help to build your app
+              Alchemi will help to build your app test
             </code>
             .
           </li>
@@ -18,7 +18,7 @@ export default function Home() {
             Scope the features, Brainstorm the implementation plan, Generate the code and Deploy it.
           </li>
           <li className="tracking-[-.01em]">
-            Alchemi uses supabase as a backend. Vercel for deployment. hi from my side
+            Alchemi uses supabase as a backend. Vercel for deployment.
           </li>
         </ol>
         {/* Need to remove this section once application generation Begins  ----START SECTION----*/}  
