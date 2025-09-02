@@ -10,7 +10,7 @@ export default function Home() {
           <li className="mb-2 tracking-[-.01em]">
             Get started by prompting{" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
-              Alchemi will help to build your app hlo
+              Alchemi will help to build your app hlo abhishek
             </code>
             .
           </li>
